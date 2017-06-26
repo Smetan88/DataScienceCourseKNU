@@ -1,4 +1,4 @@
-dataset = read.csv("/home/asarana/DataScienceCourseKNU/hw1_data.csv")
+dataset = read.csv("/home/Smetan88/DataScienceCourseKNU/hw1_data.csv")
 print(dataset)
 #1. Які назви стовпців файлу даних?
 rownames(dataset)
