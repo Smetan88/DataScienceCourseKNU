@@ -42,5 +42,28 @@ teams <- data.frame(
 print(teams)
 
 # 8. Змінити імена стовпців цього data frame.
+coach = c("Pep", "Luis","Carlo"), 
 colnames(coach) <- c("Guardiola", "Enrique", "Ancelotti")
 print(coach)
+
+
+[[1]]
+[1] 2
+
+[[2]]
+[1] 21.3
+
+[[3]]
+[1] "sin"
+
+[[4]]
+[1] TRUE
+
+[[5]]
+[1] 1+2i
+
+[1] 3
+  coach   team goals
+1   Pep     MC    56
+2  Luis  Barca    89
+3 Carlo Bayern   101
